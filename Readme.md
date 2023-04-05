@@ -16,5 +16,5 @@ Of course, with python you can convert main file (.py) to executable file (.exe)
 
 ```shell
 pip install pyinstaller
-pyinstaller --onefile -w calc.py
+pyinstaller --onefile -w main.py
 ```
